@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g1h1o1s1t
-- 👀 I’m interested in financial planning that emphasizes cognitive/behavioral aspects to how people make money decisions
-- 🌱 I’m currently learning python
+- 🌱 I’m learning SQL, Python, and data analysis
 - 💞️ I’m looking to collaborate on business and finance projects
+- I'm a doctoral student at GCU - DBA Data Analytics (Quantitative)
 - 📫 How to reach me g1h1o1s1t@gmail.com
 
 <!---
