@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @g1h1o1s1t
-- 🌱 I’m learning SQL, Python, and data analysis
-- 💞️ I’m looking to collaborate on business and finance projects
+- 🌱 I’m growing in SQL, Python, and data analysis
 - I'm a doctoral student at GCU - DBA Data Analytics (Quantitative)
 - 📫 How to reach me g1h1o1s1t@gmail.com
 
